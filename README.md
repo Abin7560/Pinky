@@ -142,3 +142,6 @@ add your own heroku button
 
           await message.client.sendMessage(message.jid, fs.readFileSync('./stick/' + a + '.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio, quoted: message.data, ptt: true})  //dont forget to add in const array ['sticker name']
 ```
+https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Abin7560/Pinky.git
+
+ 
